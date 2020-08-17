@@ -1,0 +1,6 @@
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.exe.config
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.exe
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.pdb
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.exe
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.pdb

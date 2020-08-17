@@ -10,13 +10,10 @@ namespace _1_PrimeiroProjeto
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             Console.WriteLine("Olá Mundo!");
 
             Console.WriteLine("A execução acabou. Tecle enter para finalizar... ");
             Console.ReadLine();
-=======
->>>>>>> master
         }
     }
 }
