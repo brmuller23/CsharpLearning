@@ -4,3 +4,4 @@ C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\4-ConversoesEOu
 C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.pdb
 C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.exe
 C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.pdb
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.csprojAssemblyReference.cache
