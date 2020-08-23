@@ -1,0 +1,7 @@
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\ImparPar\obj\Debug\ImparPar.csprojAssemblyReference.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\ImparPar\obj\Debug\ImparPar.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\ImparPar\bin\Debug\ImparPar.exe.config
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\ImparPar\bin\Debug\ImparPar.exe
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\ImparPar\bin\Debug\ImparPar.pdb
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\ImparPar\obj\Debug\ImparPar.exe
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\ImparPar\obj\Debug\ImparPar.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\P11-CalculaPoucanca2\bin\Debug\P11-CalculaPoucanca2.exe.config
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\P11-CalculaPoucanca2\bin\Debug\P11-CalculaPoucanca2.exe
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\P11-CalculaPoucanca2\bin\Debug\P11-CalculaPoucanca2.pdb
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\P11-CalculaPoucanca2\obj\Debug\P11-CalculaPoucanca2.csprojAssemblyReference.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\P11-CalculaPoucanca2\obj\Debug\P11-CalculaPoucanca2.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\P11-CalculaPoucanca2\obj\Debug\P11-CalculaPoucanca2.exe
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\P11-CalculaPoucanca2\obj\Debug\P11-CalculaPoucanca2.pdb

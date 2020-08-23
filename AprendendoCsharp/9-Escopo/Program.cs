@@ -11,7 +11,7 @@ namespace _9_Escopo
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Excutando o projeto 9");
+            Console.WriteLine("Excutando o projeto 9"); 
 
             int idadejoao = 18;
             bool acompanhado = false;
@@ -43,3 +43,4 @@ namespace _9_Escopo
         }
     }
 }
+
