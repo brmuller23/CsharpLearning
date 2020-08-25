@@ -4,25 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Calculando_Fibonacci
+namespace _03_ByteBank
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-            int resultado, primeironum, segundonum;
-
-            
-
-            
-           
-
-            
-            
-            Console.ReadLine();
-
-
         }
     }
 }

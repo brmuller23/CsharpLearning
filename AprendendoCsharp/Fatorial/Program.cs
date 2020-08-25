@@ -17,7 +17,6 @@ namespace Fatorial
                 fatorial *= n;
                 Console.WriteLine(fatorial);
 
-            
             }
             Console.ReadLine();
 

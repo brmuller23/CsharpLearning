@@ -1,0 +1,1 @@
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\Calculando Fibonacci\obj\Debug\Calculando Fibonacci.csproj.CoreCompileInputs.cache
