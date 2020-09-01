@@ -1,0 +1,12 @@
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\2-Udemy-Exercicios\bin\Debug\netcoreapp3.1\2-Udemy-Exercicios.exe
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\2-Udemy-Exercicios\bin\Debug\netcoreapp3.1\2-Udemy-Exercicios.deps.json
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\2-Udemy-Exercicios\bin\Debug\netcoreapp3.1\2-Udemy-Exercicios.runtimeconfig.json
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\2-Udemy-Exercicios\bin\Debug\netcoreapp3.1\2-Udemy-Exercicios.runtimeconfig.dev.json
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\2-Udemy-Exercicios\bin\Debug\netcoreapp3.1\2-Udemy-Exercicios.dll
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\2-Udemy-Exercicios\bin\Debug\netcoreapp3.1\2-Udemy-Exercicios.pdb
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\2-Udemy-Exercicios\obj\Debug\netcoreapp3.1\2-Udemy-Exercicios.AssemblyInfoInputs.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\2-Udemy-Exercicios\obj\Debug\netcoreapp3.1\2-Udemy-Exercicios.AssemblyInfo.cs
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\2-Udemy-Exercicios\obj\Debug\netcoreapp3.1\2-Udemy-Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\2-Udemy-Exercicios\obj\Debug\netcoreapp3.1\2-Udemy-Exercicios.dll
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\2-Udemy-Exercicios\obj\Debug\netcoreapp3.1\2-Udemy-Exercicios.pdb
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\2-Udemy-Exercicios\obj\Debug\netcoreapp3.1\2-Udemy-Exercicios.genruntimeconfig.cache

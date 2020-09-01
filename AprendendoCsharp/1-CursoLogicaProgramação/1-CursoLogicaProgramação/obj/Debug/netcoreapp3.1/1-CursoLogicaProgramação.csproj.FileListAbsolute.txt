@@ -1,0 +1,13 @@
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\obj\Debug\netcoreapp3.1\1-CursoLogicaProgramação.csprojAssemblyReference.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\obj\Debug\netcoreapp3.1\1-CursoLogicaProgramação.AssemblyInfoInputs.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\obj\Debug\netcoreapp3.1\1-CursoLogicaProgramação.AssemblyInfo.cs
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\obj\Debug\netcoreapp3.1\1-CursoLogicaProgramação.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\bin\Debug\netcoreapp3.1\1-CursoLogicaProgramação.exe
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\bin\Debug\netcoreapp3.1\1-CursoLogicaProgramação.deps.json
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\bin\Debug\netcoreapp3.1\1-CursoLogicaProgramação.runtimeconfig.json
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\bin\Debug\netcoreapp3.1\1-CursoLogicaProgramação.runtimeconfig.dev.json
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\bin\Debug\netcoreapp3.1\1-CursoLogicaProgramação.dll
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\bin\Debug\netcoreapp3.1\1-CursoLogicaProgramação.pdb
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\obj\Debug\netcoreapp3.1\1-CursoLogicaProgramação.dll
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\obj\Debug\netcoreapp3.1\1-CursoLogicaProgramação.pdb
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\obj\Debug\netcoreapp3.1\1-CursoLogicaProgramação.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Udemy-EntradaDeDados", "1-CursoLogicaProgramação\1-Udemy-EntradaDeDados.csproj", "{B2E00EE9-13BC-4450-B46E-30160B120C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Udemy-Exercicios", "1-CursoLogicaProgramação\2-Udemy-Exercicios\2-Udemy-Exercicios.csproj", "{E7972CEF-33B2-46BF-BEFF-AA35878A5F1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E00EE9-13BC-4450-B46E-30160B120C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E00EE9-13BC-4450-B46E-30160B120C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E00EE9-13BC-4450-B46E-30160B120C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E00EE9-13BC-4450-B46E-30160B120C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7972CEF-33B2-46BF-BEFF-AA35878A5F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7972CEF-33B2-46BF-BEFF-AA35878A5F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7972CEF-33B2-46BF-BEFF-AA35878A5F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7972CEF-33B2-46BF-BEFF-AA35878A5F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D3CDB06-AFD5-4077-AE82-F3A9DE72AAEB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\obj\Debug\netcoreapp3.1\1-Udemy-EntradaDeDados.csprojAssemblyReference.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\obj\Debug\netcoreapp3.1\1-Udemy-EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\obj\Debug\netcoreapp3.1\1-Udemy-EntradaDeDados.AssemblyInfo.cs
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\1-CursoLogicaProgramação\1-CursoLogicaProgramação\obj\Debug\netcoreapp3.1\1-Udemy-EntradaDeDados.csproj.CoreCompileInputs.cache
