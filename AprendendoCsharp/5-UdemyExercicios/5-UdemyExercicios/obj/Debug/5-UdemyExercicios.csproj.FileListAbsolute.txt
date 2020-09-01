@@ -1,0 +1,7 @@
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\5-UdemyExercicios\5-UdemyExercicios\bin\Debug\5-UdemyExercicios.exe.config
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\5-UdemyExercicios\5-UdemyExercicios\bin\Debug\5-UdemyExercicios.exe
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\5-UdemyExercicios\5-UdemyExercicios\bin\Debug\5-UdemyExercicios.pdb
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\5-UdemyExercicios\5-UdemyExercicios\obj\Debug\5-UdemyExercicios.csprojAssemblyReference.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\5-UdemyExercicios\5-UdemyExercicios\obj\Debug\5-UdemyExercicios.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\5-UdemyExercicios\5-UdemyExercicios\obj\Debug\5-UdemyExercicios.exe
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\5-UdemyExercicios\5-UdemyExercicios\obj\Debug\5-UdemyExercicios.pdb
