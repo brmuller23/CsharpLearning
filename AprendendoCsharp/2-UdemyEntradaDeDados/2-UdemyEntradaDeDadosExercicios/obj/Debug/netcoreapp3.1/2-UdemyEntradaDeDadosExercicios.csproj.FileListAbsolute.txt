@@ -1,0 +1,13 @@
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\2-UdemyEntradaDeDados\2-UdemyEntradaDeDadosExercicios\bin\Debug\netcoreapp3.1\2-UdemyEntradaDeDadosExercicios.exe
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\2-UdemyEntradaDeDados\2-UdemyEntradaDeDadosExercicios\bin\Debug\netcoreapp3.1\2-UdemyEntradaDeDadosExercicios.deps.json
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\2-UdemyEntradaDeDados\2-UdemyEntradaDeDadosExercicios\bin\Debug\netcoreapp3.1\2-UdemyEntradaDeDadosExercicios.runtimeconfig.json
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\2-UdemyEntradaDeDados\2-UdemyEntradaDeDadosExercicios\bin\Debug\netcoreapp3.1\2-UdemyEntradaDeDadosExercicios.runtimeconfig.dev.json
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\2-UdemyEntradaDeDados\2-UdemyEntradaDeDadosExercicios\bin\Debug\netcoreapp3.1\2-UdemyEntradaDeDadosExercicios.dll
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\2-UdemyEntradaDeDados\2-UdemyEntradaDeDadosExercicios\bin\Debug\netcoreapp3.1\2-UdemyEntradaDeDadosExercicios.pdb
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\2-UdemyEntradaDeDados\2-UdemyEntradaDeDadosExercicios\obj\Debug\netcoreapp3.1\2-UdemyEntradaDeDadosExercicios.csprojAssemblyReference.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\2-UdemyEntradaDeDados\2-UdemyEntradaDeDadosExercicios\obj\Debug\netcoreapp3.1\2-UdemyEntradaDeDadosExercicios.AssemblyInfoInputs.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\2-UdemyEntradaDeDados\2-UdemyEntradaDeDadosExercicios\obj\Debug\netcoreapp3.1\2-UdemyEntradaDeDadosExercicios.AssemblyInfo.cs
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\2-UdemyEntradaDeDados\2-UdemyEntradaDeDadosExercicios\obj\Debug\netcoreapp3.1\2-UdemyEntradaDeDadosExercicios.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\2-UdemyEntradaDeDados\2-UdemyEntradaDeDadosExercicios\obj\Debug\netcoreapp3.1\2-UdemyEntradaDeDadosExercicios.dll
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\2-UdemyEntradaDeDados\2-UdemyEntradaDeDadosExercicios\obj\Debug\netcoreapp3.1\2-UdemyEntradaDeDadosExercicios.pdb
+C:\Users\Bruno Müller\Documents\CsharpLearning\AprendendoCsharp\2-UdemyEntradaDeDados\2-UdemyEntradaDeDadosExercicios\obj\Debug\netcoreapp3.1\2-UdemyEntradaDeDadosExercicios.genruntimeconfig.cache
