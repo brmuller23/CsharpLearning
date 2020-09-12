@@ -27,6 +27,13 @@ namespace _03_ByteBank
             contadaGabriela = contadaGabrielaCosta;
             Console.WriteLine(contadaGabriela == contadaGabrielaCosta);
 
+            if(contadaGabriela.saldo >= 100) {
+
+                contadaGabriela.saldo -= 100;
+
+            }
+
+            
 
 
             Console.ReadLine();
