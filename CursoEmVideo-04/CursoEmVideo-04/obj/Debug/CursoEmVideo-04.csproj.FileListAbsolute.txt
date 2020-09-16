@@ -1,0 +1,7 @@
+C:\Users\Bruno Müller\Documents\CsharpLearning\CursoEmVideo-04\CursoEmVideo-04\bin\Debug\CursoEmVideo-04.exe.config
+C:\Users\Bruno Müller\Documents\CsharpLearning\CursoEmVideo-04\CursoEmVideo-04\bin\Debug\CursoEmVideo-04.exe
+C:\Users\Bruno Müller\Documents\CsharpLearning\CursoEmVideo-04\CursoEmVideo-04\bin\Debug\CursoEmVideo-04.pdb
+C:\Users\Bruno Müller\Documents\CsharpLearning\CursoEmVideo-04\CursoEmVideo-04\obj\Debug\CursoEmVideo-04.csprojAssemblyReference.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\CursoEmVideo-04\CursoEmVideo-04\obj\Debug\CursoEmVideo-04.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\CursoEmVideo-04\CursoEmVideo-04\obj\Debug\CursoEmVideo-04.exe
+C:\Users\Bruno Müller\Documents\CsharpLearning\CursoEmVideo-04\CursoEmVideo-04\obj\Debug\CursoEmVideo-04.pdb
