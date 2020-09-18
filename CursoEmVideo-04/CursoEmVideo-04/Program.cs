@@ -10,13 +10,11 @@ namespace CursoEmVideo_04
     {
         static void Main(string[] args)
         {
-            int A, B, C;
+            double L1, L2, L3;
+            bool EQ, ES;
+            
 
-            A = 2;
-            B = 3;
-            C = 5;
-
-            Console.WriteLine(1=C%2);
+            Console.WriteLine((A=B) );
 
             Console.ReadLine();
 
