@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{50731B01-0294-4073-AF7F-DED563C7745F}</ProjectGuid>
+    <ProjectGuid>{F3F78769-C4E1-4DD5-88C2-7FE1061C188A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ByteBank_Funcionario</RootNamespace>
-    <AssemblyName>ByteBank_Funcionario</AssemblyName>
+    <RootNamespace>ResolusaoExercicios</RootNamespace>
+    <AssemblyName>ResolusaoExercicios</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GerenciadorBonificacao.cs" />
-    <Compile Include="Funcionarios\Diretor.cs" />
-    <Compile Include="Funcionarios\Funcionario.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

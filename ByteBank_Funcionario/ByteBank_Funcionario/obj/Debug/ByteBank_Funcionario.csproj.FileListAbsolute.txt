@@ -1,0 +1,7 @@
+C:\Users\Bruno Müller\Documents\CsharpLearning\ByteBank_Funcionario\ByteBank_Funcionario\bin\Debug\ByteBank_Funcionario.exe.config
+C:\Users\Bruno Müller\Documents\CsharpLearning\ByteBank_Funcionario\ByteBank_Funcionario\bin\Debug\ByteBank_Funcionario.exe
+C:\Users\Bruno Müller\Documents\CsharpLearning\ByteBank_Funcionario\ByteBank_Funcionario\bin\Debug\ByteBank_Funcionario.pdb
+C:\Users\Bruno Müller\Documents\CsharpLearning\ByteBank_Funcionario\ByteBank_Funcionario\obj\Debug\ByteBank_Funcionario.csprojAssemblyReference.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\ByteBank_Funcionario\ByteBank_Funcionario\obj\Debug\ByteBank_Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Müller\Documents\CsharpLearning\ByteBank_Funcionario\ByteBank_Funcionario\obj\Debug\ByteBank_Funcionario.exe
+C:\Users\Bruno Müller\Documents\CsharpLearning\ByteBank_Funcionario\ByteBank_Funcionario\obj\Debug\ByteBank_Funcionario.pdb
