@@ -31,12 +31,17 @@ namespace ByteBank_Funcionario
             camila.nome = "Camila";
             camila.Senha = "abc";
 
-            
+            ParceiroComercial parceiro = new ParceiroComercial();
+            parceiro.Senha = "123";
+
+            sistemaInterno.Logar(parceiro, "123");
+
             sistemaInterno.Logar(roberta, "123");
             sistemaInterno.Logar(camila, "abc");
           
         }
 
+//--------------------------------------------------------------------------------------------------------------
 
         public static void CalcularBonificacao()
         {
@@ -53,6 +58,8 @@ namespace ByteBank_Funcionario
 
             GerentedeConta camila = new GerentedeConta("835.472.872-77");
             camila.nome = "Camila";
+
+            
 
             gerenciadorBonificacao.Registrar(pedro);
             gerenciadorBonificacao.Registrar(roberta);
