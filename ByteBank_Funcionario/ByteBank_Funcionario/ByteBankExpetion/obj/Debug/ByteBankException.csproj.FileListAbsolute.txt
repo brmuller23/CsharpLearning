@@ -4,3 +4,4 @@ C:\Users\Bruno Müller\Documents\CsharpLearning\ByteBank_Funcionario\ByteBank_Fu
 C:\Users\Bruno Müller\Documents\CsharpLearning\ByteBank_Funcionario\ByteBank_Funcionario\ByteBankExpetion\obj\Debug\ByteBankException.csproj.CoreCompileInputs.cache
 C:\Users\Bruno Müller\Documents\CsharpLearning\ByteBank_Funcionario\ByteBank_Funcionario\ByteBankExpetion\obj\Debug\ByteBankExpetion.exe
 C:\Users\Bruno Müller\Documents\CsharpLearning\ByteBank_Funcionario\ByteBank_Funcionario\ByteBankExpetion\obj\Debug\ByteBankExpetion.pdb
+C:\Users\Bruno Müller\Documents\CsharpLearning\ByteBank_Funcionario\ByteBank_Funcionario\ByteBankExpetion\obj\Debug\ByteBankException.csprojAssemblyReference.cache
