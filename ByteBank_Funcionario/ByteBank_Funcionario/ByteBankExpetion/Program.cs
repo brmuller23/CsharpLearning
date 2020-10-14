@@ -20,6 +20,7 @@ namespace ByteBankException
             catch (NullReferenceException erro)
             {
                 Console.WriteLine(erro.Message);
+                Console.WriteLine(erro.StackTrace);
                 Console.WriteLine("aconteceu um erro!");
             }
             Console.ReadLine();
@@ -37,8 +38,7 @@ namespace ByteBankException
                 Console.WriteLine("Resultado da divisão de 10 por " + divisor + " é " + resultado);
             }
             catch (DivideByZeroException)
-            {
-                
+            {   
                 Console.WriteLine("Não é possivel fazer uma divisão por zero");
             }             
         }
